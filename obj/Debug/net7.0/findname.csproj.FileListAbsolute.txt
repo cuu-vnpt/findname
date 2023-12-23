@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/findname/bin/Debug/net7.0/findname
+/Users/macos/Desktop/Operator/findname/bin/Debug/net7.0/findname.deps.json
+/Users/macos/Desktop/Operator/findname/bin/Debug/net7.0/findname.runtimeconfig.json
+/Users/macos/Desktop/Operator/findname/bin/Debug/net7.0/findname.dll
+/Users/macos/Desktop/Operator/findname/bin/Debug/net7.0/findname.pdb
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.dll
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/refint/findname.dll
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.pdb
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/findname.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/findname/obj/Debug/net7.0/ref/findname.dll
